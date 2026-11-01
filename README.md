@@ -2,7 +2,7 @@
 
 Um robô de duas rodas que anda para frente, para trás, para a esquerda e para a direita, e troca de carinha na tela da UNIHIKER K10 a cada direção.
 
-Projeto do Tio Rafa (@prof.tiorafa), feito para gerar conhecimento. Todos os materiais foram cedidos gentilmente pela RoboCore.
+Projeto do Tio Rafa (@prof.tiorafa) (www.tiorafa.tec.br) feito para gerar conhecimento e novas possibilidades de aprendizado. Todos os materiais foram cedidos gentilmente pela RoboCore.
 
 ![RoboCarinhas com a carinha de ré na tela](imagens/robo-carinha-tras.png)
 
