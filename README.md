@@ -70,7 +70,7 @@ O sketch usa `#include <TR0548_K10.h>` e o objeto `TR0548_K10 robo;`. A bibliote
 | Verificação | Situação |
 | --- | --- |
 | Análise do código | Feita, contra os arquivos da biblioteca TR0548_K10 1.1.0 |
-| Compilação feita na Arduino IDE 
+| Compilação feita na Arduino IDE | Código carregado, sem erros. |
 | Teste no robô (versão sem voz) | Executado no robô montado, com as carinhas na tela da K10 |
 | Comando de voz | Ainda não funciona (veja abaixo) |
 
