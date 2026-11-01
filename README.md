@@ -70,13 +70,11 @@ O sketch usa `#include <TR0548_K10.h>` e o objeto `TR0548_K10 robo;`. A bibliote
 | Verificação | Situação |
 | --- | --- |
 | Análise do código | Feita, contra os arquivos da biblioteca TR0548_K10 1.1.0 |
-| Compilação | Não realizada no ambiente em que o código foi escrito; compile na sua Arduino IDE antes de gravar |
+| Compilação feita na Arduino IDE 
 | Teste no robô (versão sem voz) | Executado no robô montado, com as carinhas na tela da K10 |
 | Comando de voz | Ainda não funciona (veja abaixo) |
 
-## Problemas conhecidos e próximo passo
 
-Nas primeiras tentativas de somar comandos de voz (reconhecimento offline da K10) ao programa com tela e motores, a K10 ficou reiniciando. Por isso esta versão não usa voz. O próximo passo é testar o exemplo oficial de voz sozinho, depois somar a tela e os motores um de cada vez, até achar onde a placa reinicia. Os comandos previstos, em inglês, são `go forward`, `go back`, `turn left`, `turn right` e `stop`.
 
 ## Licença
 
